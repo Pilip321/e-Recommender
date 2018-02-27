@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    android:background="#6e74c9"
+    tools:context="com.example.se.se.Main5Activity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="352dp"
+        android:layout_height="44dp"
+        android:text="Your Results"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.06" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="352dp"
+        android:layout_height="44dp"
+        android:text="You should be in..."
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.304" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="352dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="12dp"
+        android:text="Computer Science"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:textColor="#ffffff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="255dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="32dp"
+        android:background="#ffffff"
+        android:text="Continue"
+        android:textColor="#6e74c9"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.50"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>

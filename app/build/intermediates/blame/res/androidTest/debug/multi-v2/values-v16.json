@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ChristianPhilippe\\Documents\\AndroidStudioProjects\\SE\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ChristianPhilippe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\104ffba03526ad178ef17bc11a1c296e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ChristianPhilippe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\46de77fe5ba4a59743b26d365d67ea73\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Bea\\AndroidStudioProjects\\SE\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Bea\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8c23a63aae6330501447d1b9ee2f4766\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bea\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3f6336273aa7462d978b6edb9409c95a\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
